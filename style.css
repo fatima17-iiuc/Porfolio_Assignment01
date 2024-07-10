@@ -1,0 +1,30 @@
+
+.btn-primary{
+   background-color: black ;
+   color: aliceblue;
+   justify-content: center;
+   align-items: center;
+}
+.header{
+    background-image: url('Hero-bg.png');
+    background-repeat: no-repeat;
+}
+.banner-image{
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+.banner{
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+
+.clsImg2{
+    width : 10%;
+    position: relative;
+    top:200 px;
+    left:700 px;
+    text-align: center;
+    justify-content: center;
+}
