@@ -8,6 +8,30 @@
 .header{
     background-image: url('Hero-bg.png');
     background-repeat: no-repeat;
+    width:100%;
+}
+.footer-stlye{
+    display: flex;
+    justify-content: space-between;
+}
+.form-img{
+    background-image: url('handshake.jpg');
+    background-repeat: no-repeat;
+    max-width: 1200px;
+    margin:0 auto;
+    padding: 50px 50px;
+}
+.x{
+    color: aliceblue;
+    font-size: 80px;
+    text-align: center;
+    justify-content: center;
+}
+.xy{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
 }
 .banner-image{
     display: block;
@@ -19,7 +43,102 @@
     text-align: center;
     justify-content: center;
 }
-
+.section-title{
+    font-size:30px;
+    font-weight:bold;
+    color:#0D1321;
+    text-align: center;
+    justify-content: center;
+}
+.section-description{
+    font-size:16px;
+    color: #101727;
+    text-align: center;
+    justify-content: center;
+}
+.secondary-bg{
+    background-color:rgb(222, 222, 236) ;
+}
+.development{
+    border-radius: 10px ;
+    padding: 80px 97px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px ;
+}
+.container{
+    text-align: center;
+    margin:0 auto;
+    width: 950;
+    border-radius: 10px ;
+    padding: 50px 50px;
+    background-color:rgb(102, 204, 223) ;
+    border: 5px solid black;
+}
+.main{
+    max-width:1140 px;
+    margin:0 auto;
+}
+.c-1{
+    display:flex;
+    justify-content: space-between;
+    width: 900px;
+    margin:0 auto;
+}
+.ff input[type="text"]
+{
+   border-radius: 5px;
+}
+.d-1{
+    width: 900px;
+    margin:0 auto;
+    border-radius: 10px ;
+    padding: 5px 5px;
+    background-color:none;
+}
+.c11{
+    display:block;
+    background-color:rgb(241, 218, 168) ;
+    border-radius: 10px ;
+    width: 250px;
+    padding: 5px 5px;
+}
+.c12{
+    display:block;
+    background-color:rgb(186, 232, 240) ;
+    border-radius: 10px ;
+    padding: 5px 5px;
+    width: 250px;
+}
+.c13{
+    display:block;
+    background-color:rgb(241, 237, 174) ;
+    width: 250px;
+    border-radius: 10px ;
+    padding: 5px 5px;
+}
+.l1{
+    display:flex;
+    border-radius: 10px ;
+    padding: 48px 48px;
+    background-color:rgb(240, 226, 236) ;
+}
+.l1-writing{
+    display:block;
+}
+.l1-title{
+ text-align: left;
+}
+.l1-description{
+    text-align: left;
+}
+.l1-btn{
+   color: black;
+   justify-content: left;
+   align-items: left;
+}
 .clsImg2{
     width : 10%;
     position: relative;
@@ -28,3 +147,4 @@
     text-align: center;
     justify-content: center;
 }
+
